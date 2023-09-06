@@ -36,9 +36,12 @@
 
 ## Development
 
-
 To get started quickly, we recommend you to use [GitHub Codespaces](https://github.com/features/codespaces). We have a complete configuration allowing you to start working on UniPoll right away, including pre-configured MongoDB servers.
 
 <p align="center">
 <a href="https://github.com/codespaces/new"><img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces"></a>
 </p>
+
+## Contributing
+
+All contributions to improve the project are welcome! In particular, bug and documentation fixes are really appreciated.
