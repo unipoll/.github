@@ -24,6 +24,8 @@
 
 ---
 
+## Summary
+
 [UniPoll API](https://github.com/unipoll/API) allows you to create surveys, mange users, groups, and much more. You can use HTTP requests or connect via Websockets. Powered by FastAPI, uvicorn, and MongoDB to provide scalable scalable server side application that is easy to customize, yet performant to withstand large number of users.
 
 [UniPoll Web App](https://github.com/unipoll/AngularApp) created using Angular framework demonstrates use of API and provides an intuitive platform for users.
@@ -45,3 +47,5 @@ To get started quickly, we recommend you to use [GitHub Codespaces](https://gith
 ## Contributing
 
 All contributions to improve the project are welcome! In particular, bug and documentation fixes are really appreciated.
+
+For new features and larger improvements, we kindly ask you to [**open a discussion first**](https://github.com/orgs/unipoll/discussions) about your idea, what motivates it and how you plan to implement it **before you start working**. It'll avoid frustration on both sides if we decide not to integrate your code in the project.
