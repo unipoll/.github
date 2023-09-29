@@ -10,17 +10,19 @@
 
 ## Getting started
 
-**Official website**: [https://unipoll.cc](https://unipoll.cc)
+[**Matrix Chat**](https://matrix.to/#/#General:matrix.unipoll.cc)
 
-**Documentation**: [https://docs.unipoll.cc](https://docs.unipoll.cc) 
+[**Official website**](https://unipoll.cc)
 
-**API Refference**: (link)
+[**Documentation**](https://docs.unipoll.cc) 
 
-**App Website**: (link)
+[**Swagger API Refference**](https://api.unipoll.cc/docs)
 
-**Postman Documentation**: (link)
+[**App Website**](link)
 
-**Postman Workspace**: (link)
+[**Postman Documentation**](https://documenter.getpostman.com/view/19614303/2s9YJaWiGK)
+
+[**Postman**](https://unipoll.postman.co/)
 
 ---
 
@@ -33,8 +35,10 @@
 ## Features
 
 * [X] Postman Integration
-* [x] User management
-* [ ] 
+* [x] Account management
+* [x] Group organizaiton
+* [x] Polls
+* [x] Markdown editor 
 
 ## Development
 
