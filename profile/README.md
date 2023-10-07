@@ -20,9 +20,9 @@
 
 [**Demo Web Application**](https://app.unipoll.cc)
 
-[**Postman Documentation**](https://documenter.getpostman.com/view/19614303/2s9YJaWiGK)
+[**Postman Documentation**](https://documenter.getpostman.com/view/19614303/2s9YJezMkF)
 
-[**Postman**](https://unipoll.postman.co/)
+[**Postman Workspace**](https://unipoll.postman.co/)
 
 ---
 
